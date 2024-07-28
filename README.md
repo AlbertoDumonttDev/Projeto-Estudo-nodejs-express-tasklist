@@ -1,6 +1,6 @@
 # APIs com NodeJS, Express e Bancos de Dados
 
-Este repositório é a criação de um projeto básico sobre o estudo de APIs com NodeJS, Express e Bancos de Dados
+Este repositório é a criação de um projeto básico sobre o estudo de APIs com NodeJS, Express e Bancos de Dados.
 
 - 🛠️ **NodeJS e Express :** Explorando a criação de APIs completas utilizando NodeJS e o framework Express. Aprendendo a construir APIs REST do zero, aplicando as melhores práticas do mercado para garantir aplicações robustas e eficientes.
 - 🗃️ **Banco de Dados Relacional - PostgreSQL:** Aprendendo a criar e gerenciar APIs que interagem com bancos de dados relacionais como PostgreSQL. Entendendo os conceitos de SQL e como usá-los para consultas e manipulações de dados.
