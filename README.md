@@ -1,6 +1,6 @@
 # APIs com NodeJS, Express e Bancos de Dados
 
-Este repositório é a criação de um projeto básico sobre o estudo de APIs com NodeJS, Express e Bancos de Dados
+Este repositório é a criação de um projeto básico sobre o estudo de APIs com NodeJS, Express e Bancos de Dados.
 
 ## 🎓 **O que você encontrará aqui:**
 
